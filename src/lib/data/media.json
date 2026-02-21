@@ -1,0 +1,90 @@
+{
+	"featured": [
+		{
+			"name": "TEDx",
+			"url": "https://www.youtube.com/watch?v=zLxWXcz5k2o",
+			"icon": "video"
+		},
+		{
+			"name": "The Hun School of Princeton",
+			"url": "https://www.hunschool.org/about-hun/news-events/post/~board/school-news/post/tedx-talk-hosts-elina-c-24-and-samhita-k-28",
+			"icon": "article"
+		},
+		{
+			"name": "NJ 101.5",
+			"url": "https://nj1015.com/courageous-nj-high-school-student-overcomes-hidden-disability/",
+			"icon": "article"
+		},
+		{
+			"name": "Apraxia Kids",
+			"url": "https://www.apraxia-kids.org/elina-csapo-setting-goals-as-an-apraxia-star/",
+			"icon": "article"
+		},
+		{
+			"name": "LDA America",
+			"url": "https://ldaamerica.org/celebrating-young-advocates-meet-elina-csapo/",
+			"icon": "podcast"
+		},
+		{
+			"name": "No Limits Podcast",
+			"url": "https://www.youtube.com/watch?v=ulAD9Utt_zA",
+			"icon": "video"
+		}
+	],
+	"all": [
+		{
+			"title": "TEDx Talk",
+			"source": "YouTube",
+			"url": "https://www.youtube.com/watch?v=zLxWXcz5k2o",
+			"type": "video"
+		},
+		{
+			"title": "Young Able Voices Introduction",
+			"source": "YouTube",
+			"url": "https://www.youtube.com/watch?v=Cvjbe-oylBo",
+			"type": "video"
+		},
+		{
+			"title": "The Hun School of Princeton",
+			"source": "School News",
+			"url": "https://www.hunschool.org/about-hun/news-events/post/~board/school-news/post/tedx-talk-hosts-elina-c-24-and-samhita-k-28",
+			"type": "article"
+		},
+		{
+			"title": "Courageous NJ High School Student Overcomes Hidden Disability",
+			"source": "NJ 101.5",
+			"url": "https://nj1015.com/courageous-nj-high-school-student-overcomes-hidden-disability/",
+			"type": "article"
+		},
+		{
+			"title": "Top 5 Highlights of the Apraxia Kids National Conference",
+			"source": "The Speak Boutique",
+			"url": "https://thespeakboutique.com/en-us/blogs/the-speak-boutique-blog/apraxia-kids-conference",
+			"type": "article"
+		},
+		{
+			"title": "Elina Csapo: Setting Goals As An Apraxia Star",
+			"source": "Apraxia Kids",
+			"url": "https://www.apraxia-kids.org/elina-csapo-setting-goals-as-an-apraxia-star/",
+			"type": "article"
+		},
+		{
+			"title": "Celebrating Young Advocates: Meet Elina Csapo",
+			"source": "Learning Disabilities Association of America",
+			"url": "https://ldaamerica.org/celebrating-young-advocates-meet-elina-csapo/",
+			"type": "podcast"
+		},
+		{
+			"title": "Talking with Jordan from the Apraxia Foundation",
+			"source": "Instagram",
+			"url": "https://www.instagram.com/tv/Cw3t42kRcOH/",
+			"type": "podcast"
+		},
+		{
+			"title": "No Limits Podcast",
+			"source": "YouTube",
+			"url": "https://www.youtube.com/watch?v=ulAD9Utt_zA",
+			"type": "video"
+		}
+	]
+}
